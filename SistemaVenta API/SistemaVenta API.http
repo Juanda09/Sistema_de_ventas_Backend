@@ -1,0 +1,6 @@
+@SistemaVenta_API_HostAddress = http://localhost:5250
+
+GET {{SistemaVenta_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

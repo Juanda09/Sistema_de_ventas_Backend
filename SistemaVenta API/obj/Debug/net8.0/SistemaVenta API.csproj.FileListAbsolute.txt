@@ -1,0 +1,166 @@
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\appsettings.Development.json
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\appsettings.json
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta API.exe
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta API.deps.json
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta API.runtimeconfig.json
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta API.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta API.pdb
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.csproj.AssemblyReference.cache
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.AssemblyInfoInputs.cache
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.AssemblyInfo.cs
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.csproj.CoreCompileInputs.cache
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.MvcApplicationPartsAssemblyInfo.cs
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.MvcApplicationPartsAssemblyInfo.cache
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets.build.json
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets.development.json
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets\msbuild.SistemaVenta API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets\msbuild.build.SistemaVenta API.props
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SistemaVenta API.props
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SistemaVenta API.props
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\scopedcss\bundle\SistemaVenta API.styles.css
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaV.57FEEACF.Up2Date
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\refint\SistemaVenta API.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.pdb
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.genruntimeconfig.cache
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\ref\SistemaVenta API.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Azure.Core.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Azure.Identity.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.BLL.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.DAL.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.DTO.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.IOC.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.Model.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.Utility.dll
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.BLL.pdb
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.IOC.pdb
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.Model.pdb
+D:\.netAPIS\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\appsettings.Development.json
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\appsettings.json
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta API.exe
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta API.deps.json
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta API.runtimeconfig.json
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta API.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta API.pdb
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\AutoMapper.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Azure.Core.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Azure.Identity.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.BLL.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.DAL.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.DTO.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.IOC.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.Model.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.Utility.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.BLL.pdb
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.IOC.pdb
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.Model.pdb
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.csproj.AssemblyReference.cache
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.AssemblyInfoInputs.cache
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.AssemblyInfo.cs
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.csproj.CoreCompileInputs.cache
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.sourcelink.json
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets.build.json
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets.development.json
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets\msbuild.SistemaVenta API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets\msbuild.build.SistemaVenta API.props
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SistemaVenta API.props
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SistemaVenta API.props
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\scopedcss\bundle\SistemaVenta API.styles.css
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaV.57FEEACF.Up2Date
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\refint\SistemaVenta API.dll
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.pdb
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\SistemaVenta API.genruntimeconfig.cache
+D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta API\obj\Debug\net8.0\ref\SistemaVenta API.dll
