@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {}
+    "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+    "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectUniqueName": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "projectName": "SistemaVenta.DTO",
-        "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
+        "outputPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4279,11 +4279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+      "projectUniqueName": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
       "projectName": "SistemaVenta.DAL",
-      "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+      "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DAL\\obj\\",
+      "outputPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4300,8 +4300,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-              "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+            "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+              "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
             }
           }
         }

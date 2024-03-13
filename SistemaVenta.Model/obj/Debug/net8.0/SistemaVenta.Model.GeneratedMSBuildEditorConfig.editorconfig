@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaVenta.Model
-build_property.ProjectDir = D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta.Model\
+build_property.ProjectDir = D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.Model\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

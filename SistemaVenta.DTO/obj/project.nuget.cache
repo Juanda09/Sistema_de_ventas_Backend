@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SxeosZiw6l+3FEgWD9s8R7f4HJWyIoXI2Sd/AgZ63kW0D92NgevVzk3JrrzUzunBQw6zvyYfsvpRT0IzwtavVQ==",
+  "dgSpecHash": "EkS8/uH7F6VXsVc4pJi5/sRNwsuJmmILKfdL1KFu1REDst9LUYw9XzhzcIMfkpn8VYiDs9gpFezIVZ+X2rGR2A==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+  "projectFilePath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

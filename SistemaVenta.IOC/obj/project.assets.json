@@ -4386,11 +4386,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+      "projectUniqueName": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
       "projectName": "SistemaVenta.IOC",
-      "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+      "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.IOC\\obj\\",
+      "outputPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4407,14 +4407,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-              "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
             },
-            "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-              "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+            "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+              "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
             },
-            "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
-              "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+            "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+              "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
             }
           }
         }

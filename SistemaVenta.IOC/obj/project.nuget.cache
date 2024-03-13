@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJ6hDIMQCBqO/9GivEeDEiCr1OxFeSh/Js2XPR5Clt8T+Mq3Ui4zwYTnrulPnryH+AmU6SS200HgHQlP/Hhx4w==",
+  "dgSpecHash": "q8mCnzd2mFZLZx8ozcdjt3q+f0HUiHIj0paZZ7f9bzvm5+sSkXYN5xDQZESgRzjUmrU5Kd+Zm10wKyNavcyL6A==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+  "projectFilePath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

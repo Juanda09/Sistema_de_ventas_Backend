@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {}
+    "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+    "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectUniqueName": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "projectName": "SistemaVenta.DTO",
-        "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
+        "outputPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+    "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectUniqueName": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "projectName": "SistemaVenta.Model",
-        "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+        "outputPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,14 +136,14 @@
         }
       }
     },
-    "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+    "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectUniqueName": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "projectName": "SistemaVenta.Utility",
-        "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
+        "outputPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,11 +160,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
               },
-              "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "D:\\C#\\Sistema_ventas_Back_end\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "D:\\Sistema_de_Ventas_C#\\Sistema_de_ventas_Backend\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               }
             }
           }

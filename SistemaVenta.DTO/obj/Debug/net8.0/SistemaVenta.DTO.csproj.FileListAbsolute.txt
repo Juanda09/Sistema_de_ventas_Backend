@@ -21,3 +21,15 @@ D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\
 D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\refint\SistemaVenta.DTO.dll
 D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.pdb
 D:\C#\Sistema_ventas_Back_end\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\ref\SistemaVenta.DTO.dll
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.deps.json
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.dll
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.AssemblyInfo.cs
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.sourcelink.json
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.dll
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\obj\Debug\net8.0\refint\SistemaVenta.DTO.dll
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.pdb
+D:\Sistema_de_Ventas_C#\Sistema_de_ventas_Backend\SistemaVenta.DTO\obj\Debug\net8.0\ref\SistemaVenta.DTO.dll
