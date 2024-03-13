@@ -11,9 +11,9 @@ namespace SistemaVenta.BLL.Servicios.Contratos
     {
         Task<List<UsuarioDTO>> Lista();
         Task<SesionDTO> ValidarSesion(string correo , string clave);
-        Task<UsuarioDTO> Crear(UsuarioDTO modelo);
+        Task<UsuarioDTO> Crear(UsuarioCreacionDTO modelo);
 
-        Task<bool> Editar(UsuarioDTO modelo);
+        Task<bool> Editar(UsuarioEdicionDTO modelo,int id);
 
         Task<bool> Eliminar(int id);
 

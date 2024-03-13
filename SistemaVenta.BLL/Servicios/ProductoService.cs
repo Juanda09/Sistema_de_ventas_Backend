@@ -23,7 +23,7 @@ namespace SistemaVenta.BLL.Servicios
             _mapper = mapper;
         }
 
-        public async Task<ProductoDTO> Crear(ProductoDTO modelo)
+        public async Task<ProductoDTO> Crear(ProductosCreacionDTO modelo)
         {
             try
             {
@@ -45,12 +45,12 @@ namespace SistemaVenta.BLL.Servicios
             }
         }
 
-        public async Task<bool> Editar(ProductoDTO modelo)
+        public async Task<bool> Editar(ProductosCreacionDTO modelo, int id)
         {
             try
             {
                 var productoModelo = _mapper.Map<ProductoDTO>(modelo);
-                var productoEncontrado = await _ProductoRepositorio.Obtener(u => u.IdProducto == productoModelo.IdProducto);
+                var productoEncontrado = await _ProductoRepositorio.Obtener(u => u.IdProducto == id);
                 if (productoEncontrado == null)
                 {
                     throw new TaskCanceledException("No se encontro el producto");

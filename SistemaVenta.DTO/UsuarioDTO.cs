@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text.Json.Serialization;
 
 namespace SistemaVenta.DTO
 {
     public class UsuarioDTO
     {
-        public int IdUsuario { get; set; }
+        public int idUsuario { get; set; }
 
         public string? NombreCompleto { get; set; }
 
