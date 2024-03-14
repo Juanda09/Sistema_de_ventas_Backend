@@ -44,7 +44,7 @@ namespace SistemaVenta.API.Controllers
 
         [HttpPost]
         [Route("Guardar")]
-        public async Task<IActionResult> Guardar([FromBody] CategoriaCreacionDTO categoria)
+        public async Task<IActionResult> Guardar([FromBody] CategoriaDTO categoria)
         {
             try
             {

@@ -21,7 +21,7 @@ namespace SistemaVenta.BLL.Servicios
             _mapper = mapper;
         }
 
-        public async Task<UsuarioDTO> Crear(UsuarioCreacionDTO modelo)
+        public async Task<UsuarioDTO> Crear(UsuarioDTO modelo)
         {
             try
             {
@@ -66,7 +66,7 @@ namespace SistemaVenta.BLL.Servicios
             }
         }
 
-        public async Task<bool> Editar(UsuarioEdicionDTO modelo,int id)
+        public async Task<bool> Editar(UsuarioDTO modelo,int id)
         {
             try
             {

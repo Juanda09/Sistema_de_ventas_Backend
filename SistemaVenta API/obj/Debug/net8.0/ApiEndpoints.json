@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "categoria",
-        "Type": "SistemaVenta.DTO.CategoriaCreacionDTO",
+        "Type": "SistemaVenta.DTO.CategoriaDTO",
         "IsRequired": true
       }
     ],
@@ -82,7 +82,7 @@
       },
       {
         "Name": "producto",
-        "Type": "SistemaVenta.DTO.ProductosCreacionDTO",
+        "Type": "SistemaVenta.DTO.ProductoDTO",
         "IsRequired": true
       }
     ],
@@ -114,7 +114,7 @@
     "Parameters": [
       {
         "Name": "producto",
-        "Type": "SistemaVenta.DTO.ProductosCreacionDTO",
+        "Type": "SistemaVenta.DTO.ProductoDTO",
         "IsRequired": true
       }
     ],
@@ -155,7 +155,7 @@
       },
       {
         "Name": "usuario",
-        "Type": "SistemaVenta.DTO.UsuarioEdicionDTO",
+        "Type": "SistemaVenta.DTO.UsuarioDTO",
         "IsRequired": true
       }
     ],
@@ -187,7 +187,7 @@
     "Parameters": [
       {
         "Name": "usuario",
-        "Type": "SistemaVenta.DTO.UsuarioCreacionDTO",
+        "Type": "SistemaVenta.DTO.UsuarioDTO",
         "IsRequired": true
       }
     ],

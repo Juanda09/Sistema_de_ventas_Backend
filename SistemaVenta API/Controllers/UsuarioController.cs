@@ -68,7 +68,7 @@ namespace SistemaVenta.API.Controllers
 
         [HttpPost]
         [Route("Guardar")]
-        public async Task<IActionResult> Guardar([FromBody] UsuarioCreacionDTO usuario)
+        public async Task<IActionResult> Guardar([FromBody] UsuarioDTO usuario)
         {
             try
             {
@@ -91,7 +91,7 @@ namespace SistemaVenta.API.Controllers
         }
         [HttpPatch]
         [Route("{id:int}")]
-        public async Task<IActionResult> Editar(int id, [FromBody] UsuarioEdicionDTO usuario)
+        public async Task<IActionResult> Editar(int id, [FromBody] UsuarioDTO usuario)
         {
             try
             {

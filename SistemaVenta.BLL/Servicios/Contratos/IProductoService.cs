@@ -10,9 +10,9 @@ namespace SistemaVenta.BLL.Servicios.Contratos
     public interface IProductoService
     {
         Task<List<ProductoDTO>> Lista();
-        Task<ProductoDTO> Crear(ProductosCreacionDTO modelo);
+        Task<ProductoDTO> Crear(ProductoDTO modelo);
 
-        Task<bool> Editar(ProductosCreacionDTO modelo,int id);
+        Task<bool> Editar(ProductoDTO modelo,int id);
 
         Task<bool> Eliminar(int id);
     }

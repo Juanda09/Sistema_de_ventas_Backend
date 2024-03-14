@@ -23,7 +23,7 @@ namespace SistemaVenta.BLL.Servicios
             _mapper = mapper;
         }
 
-        public async Task<ProductoDTO> Crear(ProductosCreacionDTO modelo)
+        public async Task<ProductoDTO> Crear(ProductoDTO modelo)
         {
             try
             {
@@ -45,7 +45,7 @@ namespace SistemaVenta.BLL.Servicios
             }
         }
 
-        public async Task<bool> Editar(ProductosCreacionDTO modelo, int id)
+        public async Task<bool> Editar(ProductoDTO modelo, int id)
         {
             try
             {
