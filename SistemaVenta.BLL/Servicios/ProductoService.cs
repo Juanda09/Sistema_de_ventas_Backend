@@ -102,5 +102,19 @@ namespace SistemaVenta.BLL.Servicios
                 throw;
             }
         }
+
+        public async Task<List<ProductoDTO>> ProductoPorCategoria(int idCategoria)
+        {
+            try
+            {
+                var queryproducto = await _ProductoRepositorio.Consultar(p=> p.IdCategoria == idCategoria);
+                var listaproductos = queryproducto.Include(cat => cat.IdCategoriaNavigation).ToList();
+                return _mapper.Map<List<ProductoDTO>>(listaproductos);
+            }
+            catch
+            {
+                throw;
+            }
+        }
     }
 }

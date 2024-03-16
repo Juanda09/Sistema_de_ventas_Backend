@@ -42,6 +42,37 @@ namespace SistemaVenta.API.Controllers
                 });
             }
         }
+        [HttpGet]
+        [Route("PorCategoria/{idCategoria}")]
+        public async Task<IActionResult> PorCategoria(int idCategoria)
+        {
+            try
+            {
+                var productos = new List<ProductoDTO>();
+                if (idCategoria == 0)
+                {
+                    productos = await _ProductoService.Lista();
+                }else
+                {
+                    productos = await _ProductoService.ProductoPorCategoria(idCategoria);
+                }
+
+                return StatusCode(StatusCodes.Status200OK, new Response<List<ProductoDTO>>
+                {
+                    status = true,
+                    Value = productos,
+                    msg = "Productos por categoría obtenidos correctamente"
+                });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, new Response<object>
+                {
+                    status = false,
+                    msg = $"Error interno del servidor: {ex.Message}"
+                });
+            }
+        }
 
         [HttpPost]
         [Route("Guardar")]
@@ -122,4 +153,5 @@ namespace SistemaVenta.API.Controllers
             }
         }
     }
+    
 }

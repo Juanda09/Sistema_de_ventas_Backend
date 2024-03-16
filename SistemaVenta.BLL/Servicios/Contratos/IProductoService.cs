@@ -10,6 +10,7 @@ namespace SistemaVenta.BLL.Servicios.Contratos
     public interface IProductoService
     {
         Task<List<ProductoDTO>> Lista();
+        Task<List<ProductoDTO>> ProductoPorCategoria(int idCategoria);
         Task<ProductoDTO> Crear(ProductoDTO modelo);
 
         Task<bool> Editar(ProductoDTO modelo,int id);

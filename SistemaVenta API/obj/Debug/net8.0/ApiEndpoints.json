@@ -131,6 +131,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SistemaVenta.API.Controllers.ProductoController",
+    "Method": "PorCategoria",
+    "RelativePath": "api/Producto/PorCategoria/{idCategoria}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCategoria",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SistemaVenta.API.Controllers.RolController",
     "Method": "Lista",
     "RelativePath": "api/Rol/Lista",
